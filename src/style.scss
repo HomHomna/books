@@ -1,13 +1,16 @@
 * {
     font-family: 'Roboto Mono', monospace;
+    color: white;
+    background-color: black;
 }
 
 .cards {
-    border: 1px solid black;
+    border: 0.5px solid rgb(177, 177, 177);
     width: 215px;
     text-align: left;
     padding: 10px;
     margin: 10px;
+    border-radius: 15px;
 }
 
 .card {
@@ -21,6 +24,7 @@ p {
 
 img {
     width: 215px;
+    border-radius: 15px;
 }
 
 h2 {
